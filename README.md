@@ -39,6 +39,6 @@ Torii: Used when connections exhibit traits indicative of the Torii botnet, with
 
 ----> Classification Problem:
 I have performed classification problem on "Label" feature in order to predict to which class a particular malicious attack belongs to.
-I have SGD classifier and accuracy is 98%
+I have used SGD classifier and accuracy is 98%
 
 
