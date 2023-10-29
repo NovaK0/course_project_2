@@ -38,10 +38,7 @@ PartOfAHorizontalPortScan: Employed when connections are involved in a horizonta
 Torii: Used when connections exhibit traits indicative of the Torii botnet, with labeling criteria similar to those used for Mirai, albeit in the context of a less common botnet family.
 
 ----> Classification Problem:
-We have performed classification problem on "Label" feature in order to predict to which class a particular malicious attack belongs to.
-We have also performed classification problem on "protos" means protocols to predict which Network protocol is mostly attacked.
+I have performed classification problem on "Label" feature in order to predict to which class a particular malicious attack belongs to.
+I have SGD classifier and accuracy is 98%
 
-
-----> Work Distribution:
-Every member in the group has worked individually on the dataset and the work can be seen in respective branches.
 
