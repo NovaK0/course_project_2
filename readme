@@ -1,0 +1,40 @@
+# Data
+The data used in this project is collected from CTU-IoT-Malware-Capture logs. Due to file size constraints, please download the data and place it in the specified directory before running the code.
+
+# Usage
+Run the Jupyter Notebook or Python script to execute the code.<br>
+Modify file paths or configurations in the code as necessary.
+
+# Contents
+1. Data Preparation and Preprocessing
+   - Combining multiple CSV files into a single dataset.
+   - Removing irrelevant columns.
+   - Handling missing values.
+   
+2. Data Visualization
+   - Visualizing the distribution of 'conn_state' and 'detailed-label'.
+   - Plotting bar charts and pie charts to represent the distribution of 'proto' and 'label'.
+
+3. Data Encoding and Correlation Analysis
+   - Encoding categorical data using LabelEncoder.
+   - Analyzing the correlation between various features.
+
+4. Classification using Decision Trees
+   - Splitting the data into training and test sets.
+   - Training a Decision Tree Classifier.
+   - Evaluating model performance.
+
+5. Model Evaluation
+   - Reporting accuracy, confusion matrix, and classification report.
+
+6. Visualization of Decision Tree
+   - Plotting the trained Decision Tree Classifier.
+
+# Results
+Include any significant findings, visualizations, or results obtained from the analysis and classification process.
+
+# License
+This project is licensed under [Your License].
+
+# Acknowledgments
+Acknowledgments or credits to any resources, libraries, or inspirations used.
