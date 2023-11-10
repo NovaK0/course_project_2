@@ -1,5 +1,7 @@
 # Data
-The data used in this project is collected from CTU-IoT-Malware-Capture logs. Due to file size constraints, please download the data and place it in the specified directory before running the code.
+The data used in this project is collected from CTU-IoT-Malware-Capture logs.
+Datasets that contains information about network connections. This dataset related to network traffic monitoring or intrusion detection.
+Due to file size constraints, please download the data and place it in the specified directory before running the code.
 There are 25000363 instances and 23 features in the given dataset.
 
 # Usage
